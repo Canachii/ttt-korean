@@ -1,1 +1,1 @@
-# ttt-motd
+# TTT2 한글패치
