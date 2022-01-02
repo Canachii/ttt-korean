@@ -1,6 +1,0 @@
-"AddonInfo"
-{
-	"name" "Trouble in Terrorist Town Bots Korean"
-	"author_name" "Author Name"
-	"info" "{"title":"Trouble in Terrorist Town Bots (+ TTT2)","type":"ServerContent","tags":["fun","realism","roleplay"],"ignore":[]}"
-}
