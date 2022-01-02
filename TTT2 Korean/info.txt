@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "TTT2 Korean"
+	"author_name" "Author Name"
+	"info" "{"description": "Description", "type": "gamemode", "tags": ["fun", "roleplay"]}"
+}
