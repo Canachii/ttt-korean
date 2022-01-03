@@ -149,7 +149,7 @@ bot_profiles = {
     {name = "탐정", accuracy = 0.7, personality = 1},
     {name = "ㅇ", accuracy = 0.7, personality = 2},
     {name = "애옹", accuracy = 0.65, personality = 1},
-    {name = "마크잼민이", accuracy = 0.55, personality = 1},
+    {name = "어쩔티비", accuracy = 0.55, personality = 1},
     {name = "불곰", accuracy = 0.55, personality = 2},
     {name = "잼민TV", accuracy = 0.5, personality = 1},
     {name = "메딕", accuracy = 1, personality = 3},
