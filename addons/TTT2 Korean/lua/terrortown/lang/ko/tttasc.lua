@@ -1,0 +1,30 @@
+L = LANG.GetLanguageTableReference("ko")
+
+L["item_a_second_chance"] = "두 번째 기회"
+L["item_a_second_chance_desc"] = "죽더라도 확률적으로 다시 태어날 수 있습니다! 다른 사람을 처치할 때마다 확률이 변합니다."
+L["item_a_second_chance_corpse_desc"] = "그가 다시 돌아올지도 모릅니다."
+
+L["item_a_second_chance_chance_change"] = "부활 확률: {chance}%"
+L["item_a_second_chance_no_revive"] = "부활에 실패했습니다!"
+L["item_a_second_chance_popup_title"] = "두 번째 기회"
+L["item_a_second_chance_popup_subtitle"] = "부활에 성공했습니다! 곧 리스폰합니다!"
+L["item_a_second_chance_revive_keys"] = "[{keycorpse}]로 자신의 시체 위치에서 부활. [{keyspawn}]로 맵 스폰 위치에서 부활."
+
+L["submenu_addons_asc_title"] = "두 번째 기회"
+L["header_addons_asc"] = "일반 설정"
+L["help_asc_menu"] = "All Settings for A Second Chance by @NickCloudAT"
+
+L["label_asc_need_corpse"] = "부활에 시체가 필요합니까?"
+L["label_asc_mstack_messages"] = "MSTACK 메시지를 보입니까?"
+L["label_asc_chat_messages"] = "채팅 메시지를 보입니까?"
+L["label_asc_allow_key_respawn"] = "플레이어가 키를 눌러 부활하도록 허용하시겠습니까?"
+L["label_asc_use_kill_history"] = "플레이어의 모든 킬을 추적하고 구매 시 적절한 부활 확률을 계산하시겠습니까?"
+L["label_asc_max_revive_time"] = "플레이어가 자동으로 부활할 때까지의 시간"
+L["label_asc_min_revive_time"] = "플레이어가 키를 입력하여 부활할 때까지 걸리는 시간"
+L["label_asc_start_pct_max"] = "구매하였을 때 최대 확률 (처치 기록이 없을 때)"
+L["label_asc_start_pct_min"] = "구매하였을 때 최소 확률 (처치 기록이 없을 때)"
+L["label_asc_gain_pct_max"] = "올바른 처치 시 받을 수 있는 최대 확률"
+L["label_asc_gain_pct_min"] = "올바른 처치 시 받을 수 있는 최소 확률"
+L["label_asc_lose_pct_max"] = "잘못된 처치 시 잃는 최대 확률"
+L["label_asc_lose_pct_min"] = "잘못된 처치 시 잃는 최소 확률"
+L["label_asc_health_multiplier"] = "부활 시 체력 배율"

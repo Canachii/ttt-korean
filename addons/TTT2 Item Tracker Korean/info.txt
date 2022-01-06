@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name" "TTT2 Item Tracker"
+	"author_name" "Author Name"
+	"info" "{
+	"description": "Description",
+	"type": "servercontent",
+	"tags": [
+		"realism"
+	]
+}"
+}
