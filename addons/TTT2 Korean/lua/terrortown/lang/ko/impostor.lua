@@ -88,9 +88,9 @@ L["ev_win_losers"] = "전원 패배"
 -- EVENT STRINGS
 -- Need to be very specifically worded, due to how the system translates them.
 L["title_event_impo_insta_kill"] = "임포스터가 누군가를 즉사시킴"
-L["desc_event_impo_insta_kill"] = "{name1}(이)가 {name2}(을)를 즉사시킴."
-L["tooltip_impo_insta_kill_score"] = "즉사시킨 플레이어: {score}"
-L["impo_insta_kill_score"] = "즉사시킨 플레이어:"
+L["desc_event_impo_insta_kill"] = "{name1}(이)가 {name2}(을)를 한 번에 처치함."
+L["tooltip_impo_insta_kill_score"] = "한 번에 처치한 플레이어: {score}"
+L["impo_insta_kill_score"] = "한 번에 처치한 플레이어:"
 L["title_event_impo_sabo_start"] = "임포스터가 방해 공작을 시작함"
 L["desc_event_impo_sabo_start_lights"] = "{name}(이)가 시야를 방해함."
 L["desc_event_impo_sabo_start_comms"] = "{name}(이)가 통신을 방해함."
